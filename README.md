@@ -18,6 +18,7 @@ Ideal for quantitative trading beginners to build a technical analysis framework
 
 ## 📂 Project Structure
 
+```plaintext
 techtrend-trader/
 ├── data/                 # Raw market data
 ├── src/                  # Core modules
