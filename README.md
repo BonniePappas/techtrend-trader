@@ -31,6 +31,7 @@ techtrend-trader/
 ├── main.py               # Main program entry point
 ├── requirements.txt      # Dependency list
 └── README.md             # Project documentation
+```
 
 ---
 
