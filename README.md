@@ -19,19 +19,17 @@ Ideal for quantitative trading beginners to build a technical analysis framework
 ## 📂 Project Structure
 
 techtrend-trader/
-│
-├── data/ # Raw market data
-├── src/ # Core modules
-│ ├── fetch_data.py # Data fetching
-│ ├── indicators.py # Technical indicators
-│ ├── trend.py # Trend recognition & signal generation
-│ ├── backtest.py # Strategy backtesting
-│ └── visualize.py # Candlestick & signal visualization
-├── notebook/ # Jupyter notebooks for analysis
-├── main.py # Main program entry point
-├── requirements.txt # Dependency list
-└── README.md # Project documentation
-
+├── data/                 # Raw market data
+├── src/                  # Core modules
+│   ├── fetch_data.py     # Data fetching
+│   ├── indicators.py     # Technical indicators
+│   ├── trend.py          # Trend recognition & signal generation
+│   ├── backtest.py       # Strategy backtesting
+│   └── visualize.py      # Candlestick & signal visualization
+├── notebook/             # Jupyter notebooks for analysis
+├── main.py               # Main program entry point
+├── requirements.txt      # Dependency list
+└── README.md             # Project documentation
 
 ---
 
